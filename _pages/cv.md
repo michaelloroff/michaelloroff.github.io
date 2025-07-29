@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my full CV [here]{../Loroff_CV_2025.pdf}.
+Download my full CV [here](../Loroff_CV_2025.pdf).
